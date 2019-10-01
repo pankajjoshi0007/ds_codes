@@ -11,7 +11,7 @@ int heig(node*);
 node *findmin(node*);
 
 typedef struct node node;
-//creating new node
+//creating new node of tree
 node *newnode(int key)
 {
 node *temp=new node;
