@@ -248,7 +248,6 @@ return root;
 
 }
 
-//DRIVER PROGRAM
 int main()
 {
 node *root=NULL;
