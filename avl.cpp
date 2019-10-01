@@ -138,7 +138,7 @@ preorder(root->right);
 }
 
 
-//Deletion in BST
+//Deletion in BST used for avl rotation
 
 
 node * bstdel(node *root,int key)
