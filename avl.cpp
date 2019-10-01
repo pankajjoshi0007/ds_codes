@@ -23,7 +23,7 @@ temp->height=1;
 return temp;
 }
 
-// right rotation 
+// right rotation  of avl tree
 node *rightrotate(node *x)
 {
 
@@ -41,7 +41,7 @@ return y;
 }
 
 
-// left rotation
+// left rotation of avl tree
 node *leftrotate(node *x)
 {
 node *y=x->right;
